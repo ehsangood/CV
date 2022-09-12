@@ -67,10 +67,10 @@ sr.reveal('.footer3', {
 
 });
 sr.reveal('#foote', {
-                        duration: 1500,
+                        duration: 1000,
                         origin: 'top',
-                        viewfactor: 0.2,
-                        distance: '40px'
+                       
+                      
 
 })
 sr.reveal('#hedparent', {
