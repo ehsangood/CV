@@ -146,22 +146,24 @@ h3 {
   font-size: 12px;
 }
 
-#bgparent {
-  margin-top: 86px;
+bgparent {
+  margin-top: 90px;
   margin-bottom: 2px;
   height: 650px;
   background: url("../img/bgbody2.jpg") no-repeat center center/cover;
   opacity: 0.9;
   overflow: auto;
+  
 }
 #bgparent .txtparent {
+  margin-top: 60px;
   text-align: center;
   color: rgb(255, 255, 255);
-  padding: 50px;
+  padding: 20px;
 }
 #bgparent .txtparent h1 {
   padding: 17px;
-  font-size: 30px;
+  font-size: 20px;
   display: inline-block;
   background-color: #1b247aa6;
   color: rgb(243, 243, 243);
@@ -169,7 +171,17 @@ h3 {
 }
 .headp {
   color: rgb(0, 211, 222);
-  font-size: 30px;
+  font-size: 20px;
+  padding: 10px;k;
+  background-color: #5757579a;
+  margin: 10px 0px;
+  display: inline-bloc
+
+  line-height: 2;
+}
+.headp2 {
+  color: rgb(255, 255, 255);
+  font-size: 25px;
   padding: 10px;
   display: inline-block;
   background-color: #5757579a;
@@ -177,13 +189,6 @@ h3 {
 
   line-height: 2;
 }
-.headp2 {
-  color: rgb(255, 255, 255);
-  font-size: 30px;
-  padding: 10px;
-  display: inline-block;
-  background-color: #5757579a;
-  margin: 10px 0px;
 
   line-height: 2;
 }
