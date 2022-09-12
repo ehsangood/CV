@@ -66,13 +66,6 @@ sr.reveal('.footer3', {
                         distance: '40px'
 
 });
-sr.reveal('#foote', {
-                        duration: 1000,
-                        origin: 'top',
-                       
-                      
-
-})
 sr.reveal('#hedparent', {
                         duration: 1000,
                         origin: 'top',
